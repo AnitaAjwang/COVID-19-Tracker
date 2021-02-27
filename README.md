@@ -4,7 +4,8 @@ This is a web application that tracks the number of COVID-19 cases globally and 
 # Screenshot
 ![](images/covid1.PNG)
 
-
+# Languages and Technologies
+REACT, NODE , HTML, CSS , MATHDROID API, MATERIAL UI
 # Before Using
 * Nodejs is installed (https://nodejs.org/)
 
